@@ -1,0 +1,1 @@
+while true; do curl -s http://localhost:3001/api/productos > /dev/null; done
